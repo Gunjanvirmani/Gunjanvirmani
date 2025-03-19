@@ -62,4 +62,30 @@ interested_in:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanvirmani&" alt="gunjanvirmani" /></p>
 
 [![Gunjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gunjanvirmani&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🐱 My GitHub Stats:
+<br>
+<div align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=manya706&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gunjanvirmani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gunjanvirmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+## 
+[![Gunjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gunjanvirmani&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
+<div align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
+   
+   <h3>Show some ❤️ by starring some of the repositories!</h3>
+</div>
