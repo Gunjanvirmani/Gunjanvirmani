@@ -61,7 +61,7 @@ interested_in:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanvirmani&" alt="gunjanvirmani" /></p>
 
-[![Gunjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gunjanvirmani&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🐱 My GitHub Stats:
 <br>
 <div align="center">
