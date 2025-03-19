@@ -7,6 +7,25 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Gunjan+Virmani;Aspiring+Data Analytics;%26+Ai+ML+enthusiast+" alt="Typing SVG"   /></a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> 
+  
+``` yaml
+name: "Gunjan Virmani"
+location: "India 🇮🇳"
+education:
+  degree: "BTech in Computer Science Specializing in AI/ML"
+  university: "Manav Rachana University"
+  CGPA: "7.63/10"
+past_experiences:
+  - role: "Hackthons", 
+  - achievement: "1st Runner Up", "Spark Tank"
+  - achievement: "2nd Place", "Ideathon"
+currently_learning:
+  - "PythonFramework"
+  - "Advanced Market Analysis"
+interested_in:
+  - "Books", "Financial Markets 📈", "Entrepreneurship 🚀",  "Competitive Coding 👩‍💻", "Netflix"
+
+```
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjanvirmani&label=Profile%20views&color=0e75b6&style=flat" alt="gunjanvirmani" /> </p>
