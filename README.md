@@ -60,3 +60,15 @@ interested_in:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjanvirmani&show_icons=true&locale=en" alt="gunjanvirmani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanvirmani&" alt="gunjanvirmani" /></p>
+## 
+[![Gunjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gunjanvirmani&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
+<div align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
+   
+   <h3>Show some ❤️ by starring some of the repositories!</h3>
+</div>
