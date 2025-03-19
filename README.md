@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Machinelearningproject**
+- 🔭 I’m currently working on **Machine learning projects**
 
-- 🌱 I’m currently learning **Python Frameworks like flask,Mongodb**
+- 🌱 I’m currently learning **Python Frameworks like flask,**
 
 - 👯 I’m looking to collaborate on **Hackthons**
 
