@@ -17,7 +17,7 @@ education:
   CGPA: "7.63/10"
 past_experiences:
   - role: "Hackthons", 
-  - achievement: "1st Runner Up", "Spark Tank"
+  - achievement: "XYZ"
   - achievement: "2nd Place", "Ideathon"
 currently_learning:
   - "PythonFramework"
@@ -48,6 +48,23 @@ interested_in:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</p>
+<p>
+
+- 🏆 Ongoing research project "xyz" 
+
+- 🥈 National Runners Up at Flipkart Grid 5.0 with a team of 2, developing Diabetic Retinopathy Detection using Quantum Computing and Deep Learning. Prize: INR 75,000 Flipkast EVGs.
+
+- 🥈 First Runner Up in Hackmor Hackthon among 640+ teams,
+
+- 🥈 2nd position in Ideathon among 100+ teams, winning a cash prize of INR 3,000.
+
+- 🥇 1st position in Solving for India - GFG, Google Cloud X AMD at the university level. Project selected for regional rounds.
+
+
+- 🎓 Scored 8 SGPA consecutively in the 2nd year.
+
+- 🌍 Top 10% worldwide in Leetcode Weekly Contests.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
