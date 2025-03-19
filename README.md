@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Gunjan virmani</h1>
 <h3 align="center">A passionate Machine learning engineer from India</h3>
+<div align="center"; margin-bottom="60";>
+  <img style="max-width:60/%;height:auto;" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+</div>
+
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Gunjan+Virmani;Aspiring+Data Analytics;%26+Ai+ML+enthusiast+" alt="Typing SVG"   /></a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> 
 
 
